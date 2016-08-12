@@ -5,10 +5,11 @@ Usage :	Just copy paste the content of the script in the iPython interperter,
 
 Author:	Vivek Rana
 
-Date:	--2016
+Date:	12-Aug-2016
 
 About Script:
 		Write some thing about script here.
+		https://www.hackerrank.com/challenges/30-operators
 """
 
 def main():
