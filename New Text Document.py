@@ -5,14 +5,20 @@ Usage :	Just copy paste the content of the script in the iPython interperter,
 
 Author:	Vivek Rana
 
-Date:	--2016
+Date:	-Aug-2016
 
 About Script:
 		Write some thing about script here.
 """
+import sys
 
 def main():
-	return 
+        try:
+                pass
+        except:
+                print("Unhandled Exception : ",sys.exc_info())
+        return 
 
 if __name__ == '__main__':
-	main()
+        main()
+        input("Press any button to exit.")
